@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme palette -->
+    <color name="surface">#FF1F1F1F</color>
+    <color name="surface_variant">#FF2C2C2C</color>
+    <color name="on_surface">#FFE3E3E3</color>
+    <color name="on_surface_variant">#FF9AA0A6</color>
+    <color name="primary">#FF8AB4F8</color>
+    <color name="on_primary">#FF1F1F1F</color>
+    <color name="primary_container">#FF394457</color>
+    <color name="outline">#FF3C4043</color>
+    <color name="scrim">#CC000000</color>
+    <color name="reader_overlay">#E61F1F1F</color>
+    <color name="book_card_shadow">#14FFFFFF</color>
+    <color name="empty_hint">#FF9AA0A6</color>
+    <color name="delete_red">#FFEF5350</color>
+    <color name="fab_tint">#FF8AB4F8</color>
+</resources>

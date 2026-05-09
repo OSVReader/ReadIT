@@ -1,0 +1,120 @@
+﻿<resources>
+    <string name="app_name">readIt</string>
+
+    <!-- Library -->
+    <string name="library_title">Your library</string>
+    <string name="add_book">Add book</string>
+    <string name="empty_library_title">Your library is empty</string>
+    <string name="empty_library_message">Tap the button below to add your first book</string>
+    <string name="book_cover">Book cover</string>
+    <string name="drag_to_reorder">Drag to reorder</string>
+    <string name="toggle_view">Toggle view</string>
+    <string name="voice_settings">Voice settings</string>
+    <string name="book_added">Book added!\u2026</string>
+    <string name="import_failed">Failed: %s</string>
+    <string name="book_deleted">Book removed</string>
+    <string name="delete_book_title">Remove from library?</string>
+    <string name="delete_book_message">This will remove the book and delete it from your device.</string>
+    <string name="delete">Remove</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Reader Activity -->
+    <string name="back">Go back</string>
+    <string name="table_of_contents">Contents</string>
+    <string name="read_aloud">Read aloud</string>
+    <string name="pause">Pause</string>
+    <string name="tts_previous">Previous sentence</string>
+    <string name="tts_next">Next sentence</string>
+    <string name="tts_stop">Stop reading</string>
+    <string name="settings">Display options</string>
+    <string name="no_epub_path">No EPUB path provided</string>
+    <string name="failed_to_open_epub">Failed to open EPUB: %s</string>
+    <string name="publication_not_ready">Publication not ready</string>
+    <string name="no_toc_found">No Table of Contents found</string>
+    <string name="reader_not_ready">Reader not ready</string>
+    <string name="tts_stopped">Read aloud stopped</string>
+    <string name="tts_init_failed">Read aloud failed: %s</string>
+    <string name="tts_failed">Read aloud failed: %s</string>
+    <string name="tts_cannot_play">This book cannot be read aloud</string>
+    <string name="tts_notification_channel">Read aloud</string>
+    <string name="tts_notification_channel_desc">Controls for text-to-speech playback</string>
+    <string name="tts_reading">Reading aloud\u2026</string>
+    <string name="tts_paused_label">Paused</string>
+    <string name="tts_error_title">Read aloud interrupted</string>
+    <string name="tts_error_recovery">%1$s\n\nResume from the interrupted sentence?</string>
+    <string name="tts_resume">Resume</string>
+    <string name="tts_stop_reading">Stop</string>
+    <string name="tts_settings">Voice settings</string>
+    <string name="tts_preparing">Preparing audio</string>
+    <string name="tts_settings_title">Voice settings</string>
+    <string name="tts_engine">Engine</string>
+    <string name="tts_engine_system">System</string>
+    <string name="tts_engine_piper">Piper</string>
+    <string name="piper_not_downloaded">Piper model not downloaded. Tap to download (~63 MB)</string>
+    <string name="piper_downloading">Downloading Piper model\u2026 %d%%</string>
+    <string name="piper_ready">Piper model ready (offline)</string>
+    <string name="piper_download_failed">Download failed: %s</string>
+    <string name="tts_speed">Speed</string>
+    <string name="tts_pitch">Pitch</string>
+    <string name="tts_voice">Voice</string>
+    <string name="tts_voice_default">Default voice</string>
+    <string name="piper_voices">Piper voices</string>
+    <string name="piper_download_voice">Download voice</string>
+    <string name="piper_delete_voice">Delete voice</string>
+    <string name="piper_voice_size">%1$s \u00b7 %2$s \u00b7 %3$s \u00b7 ~%4$d MB</string>
+    <string name="piper_voice_downloaded">%1$s \u00b7 %2$s \u00b7 %3$s \u00b7 Downloaded</string>
+    <string name="piper_voice_download_failed">Download failed: %s</string>
+    <string name="piper_voice_deleted">Voice deleted</string>
+    <string name="piper_voice_active">Active voice</string>
+    <string name="tts_engine_kokoro">Kokoro</string>
+    <string name="kokoro_not_downloaded">Kokoro model not downloaded (~340 MB)</string>
+    <string name="kokoro_downloading">Downloading Kokoro model\u2026 %d%%</string>
+    <string name="kokoro_ready">Kokoro model ready (offline, near-human quality)</string>
+    <string name="kokoro_model_packs">Kokoro model packs</string>
+    <string name="kokoro_voices">Kokoro voices</string>
+    <string name="kokoro_voice_deleted">Kokoro model deleted</string>
+    <string name="kokoro_download_failed">Download failed: %s</string>
+    <string name="kokoro_model_size">%1$s \u00b7 %2$d speakers \u00b7 ~%3$d MB</string>
+    <string name="kokoro_model_downloaded">%1$s \u00b7 %2$d speakers \u00b7 Downloaded</string>
+    <string name="kokoro_preload">Preload selected Kokoro voice</string>
+    <string name="kokoro_preload_summary">Loads the voice when a book opens for faster first playback.</string>
+
+    <!-- Bookmarks -->
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="no_bookmarks">No bookmarks yet</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="bookmark_removed">Bookmark removed</string>
+    <string name="delete_bookmark">Delete bookmark</string>
+    <string name="progress_format">%1$d%%</string>
+
+    <!-- Search -->
+    <string name="search_book">Search book</string>
+    <string name="search_hint">Search in book\u2026</string>
+    <string name="search_results">%d results</string>
+    <string name="search_no_results">No results found</string>
+    <string name="search_searching">Searching\u2026</string>
+
+    <!-- TOC -->
+    <string name="toc_title">Contents</string>
+
+    <!-- Display settings -->
+    <string name="display_options">Display options</string>
+    <string name="font_size">Text size</string>
+    <string name="decrease_font">Decrease text size</string>
+    <string name="increase_font">Increase text size</string>
+    <string name="font_family">Font</string>
+    <string name="font_original">Original</string>
+    <string name="font_serif">Serif</string>
+    <string name="font_sans_serif">Sans-serif</string>
+    <string name="font_cursive">Cursive</string>
+    <string name="font_monospace">Monospace</string>
+    <string name="highlight_color">TTS highlight</string>
+    <string name="highlight_blue">Blue</string>
+    <string name="highlight_red">Red</string>
+    <string name="highlight_yellow">Yellow</string>
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_sepia">Sepia</string>
+    <string name="theme_dark">Dark</string>
+</resources>

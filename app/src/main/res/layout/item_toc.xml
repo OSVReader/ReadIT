@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toc_item_text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="14dp"
+    android:paddingBottom="14dp"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    android:textSize="15sp"
+    android:textColor="@color/on_surface"
+    android:background="?attr/selectableItemBackground" />
