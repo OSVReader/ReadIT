@@ -14,6 +14,15 @@ Recommended file for most phones:
 readit-1.0-arm64-v8a-release.apk
 ```
 
+Release APK options:
+
+| APK | Use for |
+|---|---|
+| `readit-1.0-arm64-v8a-release.apk` | Most modern Android phones |
+| `readit-1.0-armeabi-v7a-release.apk` | Older 32-bit Android phones |
+| `readit-1.0-x86_64-release.apk` | Android emulators or x86_64 devices |
+| `readit-1.0-universal-release.apk` | Unknown architecture; larger download |
+
 After installing, launch **readIt**, import an EPUB, then open **Voice** settings to download optional offline voices.
 
 Known first-release issue: offline TTS may pause before long paragraphs while audio is generated. This will be improved in a follow-up release.
