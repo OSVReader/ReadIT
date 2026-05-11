@@ -4,9 +4,11 @@ readIt is an Android EPUB reader focused on private, offline reading.
 
 It can import EPUB files from your phone, remember your place, search inside books, save bookmarks, adjust reading appearance, and read books aloud with either Android system voices or downloadable offline voices.
 
+This is the first public test release of our open source text-to-speech enabled eReader app ReadIT: an offline EPUB reader with full eReader features and high-quality neural text-to-speech voices running locally on your smartphone.
+
 ## Download
 
-Get the latest APK from the [Releases](https://github.com/OSVReader/ReadIT/releases) page.
+Get the latest APK from the [Releases](https://github.com/OSVReader/ReadIT/releases) page. On the release page, open the Assets section to download the APK installer package.
 
 For most Android phones, download:
 
@@ -24,6 +26,16 @@ Other APKs are available if needed:
 | `readit-1.0-universal-release.apk` | Unknown architecture; larger download |
 
 After downloading, open the APK on your phone and allow installation from your browser or file manager if Android asks.
+
+To install the app on your Android device, locate the downloaded file in your device's downloads folder, press the file to start installation, then follow Android's on-screen instructions.
+
+## Video Tutorial
+
+Watch the quick download and usage tutorial:
+
+```text
+https://youtu.be/tCtKfBN5eqE
+```
 
 ## Features
 
