@@ -1,10 +1,16 @@
-# readIt
+# ReadIT
 
-readIt is an Android EPUB reader focused on private, offline reading.
+ReadIT is an Android EPUB reader focused on private, offline reading.
 
 It can import EPUB files from your phone, remember your place, search inside books, save bookmarks, adjust reading appearance, and read books aloud with either Android system voices or downloadable offline voices.
 
 This is the first public test release of our open source text-to-speech enabled eReader app ReadIT: an offline EPUB reader with full eReader features and high-quality neural text-to-speech voices running locally on your smartphone.
+
+## Video Tutorial
+
+Click the video preview below to watch the quick download and usage tutorial.
+
+[![Watch the ReadIT video tutorial](https://img.youtube.com/vi/tCtKfBN5eqE/hqdefault.jpg)](https://youtu.be/tCtKfBN5eqE)
 
 ## Download
 
@@ -28,14 +34,6 @@ Other APKs are available if needed:
 After downloading, open the APK on your phone and allow installation from your browser or file manager if Android asks.
 
 To install the app on your Android device, locate the downloaded file in your device's downloads folder, press the file to start installation, then follow Android's on-screen instructions.
-
-## Video Tutorial
-
-Watch the quick download and usage tutorial:
-
-```text
-https://youtu.be/tCtKfBN5eqE
-```
 
 ## Features
 
@@ -64,10 +62,10 @@ Offline TTS may pause before long paragraphs while the next audio is generated. 
 
 ## Privacy
 
-readIt is designed as an offline-first reader. Imported books, bookmarks, reading position, settings, and downloaded voice models stay on your device.
+ReadIT is designed as an offline-first reader. Imported books, bookmarks, reading position, settings, and downloaded voice models stay on your device.
 
 Android backup is disabled for app data in this test release.
 
 ## License
 
-readIt uses open-source components including Readium Kotlin Toolkit, sherpa-onnx, Piper voices, and Kokoro voices. See the source and dependency licenses for details.
+ReadIT uses open-source components including Readium Kotlin Toolkit, sherpa-onnx, Piper voices, and Kokoro voices. See the source and dependency licenses for details.
